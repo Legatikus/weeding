@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Gilroy, Roboto, sans-serif;
+    src: url(../fonts/Gilroy-UltraLight.woff2) format("woff2");
+    src: url(../fonts/Gilroy-Light.woff2) format("woff2");
+    src: url(../fonts/Gilroy-Regular.woff2) format("woff2");
+    src: url(../fonts/Roboto-Regular.woff2) format("woff2");
+}
+section {
+    width: 1170px;
+    margin-top: 96px;
+    margin-right: auto;
+    margin-left: auto;
+}
